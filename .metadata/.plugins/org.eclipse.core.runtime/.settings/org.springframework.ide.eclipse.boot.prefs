@@ -1,13 +1,13 @@
 eclipse.preferences.version=1
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=3
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=4
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=hwA201914089
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=4
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=5
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=hello2_2nd
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=3.0.4
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Demo project for Spring Boot
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=net.skhu
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=17
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=hwA201914089
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=hello2_2nd
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=net.skhu
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=war
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
