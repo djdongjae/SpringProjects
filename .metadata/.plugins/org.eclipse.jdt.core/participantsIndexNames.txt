@@ -7,6 +7,8 @@ C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.
 \hello2\src\main\java
 C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1521471680.index
 \hello\src\main\java
+C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1570961327.index
+\mybatis1\src\main\java
 C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\291332029.index
 \param\src\main\java
 C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1206414035.index
