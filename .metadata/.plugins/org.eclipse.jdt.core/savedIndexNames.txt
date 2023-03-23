@@ -1,13 +1,5 @@
 INDEX VERSION 1.131+C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.eclipse.jdt.core
-308589069.index
-2900337083.index
-1804724049.index
-2057324868.index
 1865797976.index
-3435501576.index
 1468570521.index
-4162530823.index
-3697525136.index
-1475411832.index
-27107706.index
-3362374014.index
+4114621305.index
+322911573.index

@@ -1300,3 +1300,92 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis.s
 2023-03-21 11:39:36,584 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-03-21 11:39:36,585 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-03-21 11:39:36,588 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1\src\test\resources
+2023-03-22 20:34:09,165 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-22 20:34:32,079 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 20:34:32,117 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 20:34:32,132 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1\src\test\resources
+2023-03-22 20:35:29,782 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.skhu:mybatis1_2nd:0.0.1-SNAPSHOT @ C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\pom.xml.
+2023-03-22 20:35:32,349 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mybatis1_2nd/src/main/java
+2023-03-22 20:35:32,350 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mybatis1_2nd/src/main/resources
+2023-03-22 20:35:32,361 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mybatis1_2nd/src/main/resources
+2023-03-22 20:35:32,372 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mybatis1_2nd/src/test/java
+2023-03-22 20:35:35,309 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2023-03-22 20:35:35,316 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-22 20:35:36,085 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.skhu:mybatis1_2nd:0.0.1-SNAPSHOT @ C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\pom.xml.
+2023-03-22 20:35:37,668 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mybatis1_2nd/src/main/java
+2023-03-22 20:35:37,669 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mybatis1_2nd/src/main/resources
+2023-03-22 20:35:37,671 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mybatis1_2nd/src/main/resources
+2023-03-22 20:35:37,672 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mybatis1_2nd/src/test/java
+2023-03-22 20:35:39,256 [Worker-6: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for mybatis1_2nd
+2023-03-22 20:35:39,285 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2023-03-22 20:35:42,400 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mybatis1_2nd
+2023-03-22 20:35:42,402 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mybatis1_2nd
+2023-03-22 20:36:08,263 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 20:36:08,265 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 20:36:08,274 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 20:37:08,514 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.skhu:mybatis1_2nd:0.0.1-SNAPSHOT @ C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\pom.xml.
+2023-03-22 20:37:10,153 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 20:37:10,154 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 20:37:10,160 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 20:37:10,160 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mybatis1_2nd
+2023-03-22 20:37:10,161 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mybatis1_2nd
+2023-03-22 20:37:11,626 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 20:37:11,664 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 20:37:11,670 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 20:39:11,957 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 20:39:11,968 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 20:39:11,973 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 20:39:48,232 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 20:39:48,265 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 20:39:48,273 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 20:40:01,282 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 20:40:01,331 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 20:40:01,340 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 20:40:06,202 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 20:40:06,217 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 20:40:06,224 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 20:41:40,410 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 20:41:40,424 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 20:41:40,428 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 20:42:10,994 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 20:42:11,007 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 20:42:11,014 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 20:42:41,481 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 20:42:41,536 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 20:42:41,544 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 20:49:47,844 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 20:49:47,860 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 20:49:47,864 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 21:10:09,556 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 21:10:09,589 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 21:10:09,594 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 21:10:28,429 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 21:10:28,475 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 21:10:28,482 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 21:23:05,900 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 21:23:05,943 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 21:23:05,951 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 22:10:03,715 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 22:10:03,716 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 22:10:03,724 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 22:11:28,534 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 22:11:28,535 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-22 22:11:28,544 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 22:12:32,512 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 22:12:32,512 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 22:12:32,518 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 22:12:51,203 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 22:12:51,204 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 22:12:51,208 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 22:28:37,434 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 22:28:37,434 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 22:28:37,438 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 22:28:53,064 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 22:28:53,065 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 22:28:53,070 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-22 22:49:56,156 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 22:49:56,157 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-22 22:49:56,160 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources
+2023-03-23 09:01:53,078 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-23 09:01:53,079 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-23 09:01:53,083 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_2nd\src\test\resources

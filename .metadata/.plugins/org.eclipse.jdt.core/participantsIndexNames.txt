@@ -11,6 +11,8 @@ C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.
 \mybatis1\src\main\java
 C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\291332029.index
 \param\src\main\java
+C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\30076471.index
+\mybatis1_2nd\src\main\java
 C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1206414035.index
 \hello2_2nd\src\main\java
 C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1471934942.index
