@@ -5,6 +5,7 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
     <fullyQualifiedTypeName name="org.springframework.format.annotation.DateTimeFormat"/>
     <fullyQualifiedTypeName name="net.skhu.dto.Person"/>
+    <fullyQualifiedTypeName name="net.skhu.dto.Student"/>
     <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Mapper"/>
     <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Select"/>
     <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Insert"/>
@@ -12,9 +13,9 @@
     <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Update"/>
     <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Delete"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
-    <fullyQualifiedTypeName name="net.skhu.mapper.DepartmentMapper"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="net.skhu.mapper.DepartmentMapper"/>
     <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="net.skhu.dto.Department"/>
