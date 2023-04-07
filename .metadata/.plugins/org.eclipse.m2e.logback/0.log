@@ -2583,3 +2583,78 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis.s
 2023-04-05 17:36:03,699 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-04-05 17:36:04,215 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
 2023-04-05 17:36:04,231 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\page1\src\test\resources
+2023-04-07 13:12:53,205 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-07 13:14:42,357 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.skhu:form1_2nd:0.0.1-SNAPSHOT @ C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\pom.xml.
+2023-04-07 13:14:46,882 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /form1_2nd/src/main/java
+2023-04-07 13:14:46,883 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /form1_2nd/src/main/resources
+2023-04-07 13:14:46,891 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /form1_2nd/src/main/resources
+2023-04-07 13:14:46,901 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /form1_2nd/src/test/java
+2023-04-07 13:14:49,337 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2023-04-07 13:14:49,342 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-07 13:14:49,818 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.skhu:form1_2nd:0.0.1-SNAPSHOT @ C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\pom.xml.
+2023-04-07 13:14:51,209 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /form1_2nd/src/main/java
+2023-04-07 13:14:51,210 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /form1_2nd/src/main/resources
+2023-04-07 13:14:51,211 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /form1_2nd/src/main/resources
+2023-04-07 13:14:51,212 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /form1_2nd/src/test/java
+2023-04-07 13:14:53,057 [Worker-0: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for form1_2nd
+2023-04-07 13:14:53,068 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2023-04-07 13:14:53,823 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of form1_2nd
+2023-04-07 13:14:53,824 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for form1_2nd
+2023-04-07 13:23:39,915 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.skhu:form1_2nd:0.0.1-SNAPSHOT @ C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\pom.xml.
+2023-04-07 13:23:43,264 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-07 13:23:43,265 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-07 13:23:43,269 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:23:43,269 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of form1_2nd
+2023-04-07 13:23:43,270 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for form1_2nd
+2023-04-07 13:23:44,721 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:23:44,759 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-07 13:23:44,765 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:24:05,670 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:24:05,681 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-07 13:24:05,685 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:29:40,255 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-07 13:29:40,256 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:29:40,262 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:29:52,736 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-07 13:29:52,737 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:29:52,746 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:30:46,289 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:30:46,302 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:30:46,307 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:30:59,999 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:31:00,017 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:31:00,025 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:32:15,605 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:32:15,619 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:32:15,624 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:32:51,621 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.skhu:mybatis1_3rd:0.0.1-SNAPSHOT @ C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_3rd\pom.xml.
+2023-04-07 13:32:53,166 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:32:53,183 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:32:53,187 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_3rd\src\test\resources
+2023-04-07 13:36:23,927 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:36:23,941 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:36:23,946 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:36:35,190 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:36:35,204 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:36:35,209 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:36:48,847 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:36:48,885 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:36:48,892 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:37:02,184 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:37:02,197 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:37:02,204 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:37:32,150 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:37:32,163 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:37:32,170 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:37:41,609 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:37:41,627 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:37:41,633 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:45:16,112 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-07 13:45:16,113 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-07 13:45:16,116 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:45:53,964 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-07 13:45:53,965 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-07 13:45:53,970 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
+2023-04-07 13:50:39,951 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:50:39,964 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-07 13:50:39,969 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\form1_2nd\src\test\resources
