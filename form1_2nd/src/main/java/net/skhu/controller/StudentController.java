@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import net.skhu.dto.Student;
+import net.skhu.mapper.DepartmentMapper;
 import net.skhu.mapper.StudentMapper;
 
 @Controller
@@ -17,6 +18,7 @@ import net.skhu.mapper.StudentMapper;
 public class StudentController {
 
 	@Autowired StudentMapper studentMapper;
+	@Autowired DepartmentMapper departmentMapper;
 	
 	@RequestMapping("list")
 	public String list(Model model) {
@@ -28,12 +30,14 @@ public class StudentController {
 	@GetMapping("create")
 	public String create(Model model) {
 		model.addAttribute("student", new Student());
+		model.addAttribute("departments", departmentMapper.findAll());
 		return "student/edit";
 	}
 	
 	@PostMapping("create")
 	public String create(Model model, Student student) {
 		studentMapper.insert(student);
+		model.addAttribute("departments", departmentMapper.findAll());
 		model.addAttribute("message", "저장했습니다");
 		return "student/edit";
 	}
@@ -42,12 +46,14 @@ public class StudentController {
 	public String edit(Model model, int id) {
 		Student student = studentMapper.findOne(id);
 		model.addAttribute("student", student);
+		model.addAttribute("departments", departmentMapper.findAll());
 		return "student/edit";
 	}
 	
 	@PostMapping("edit")
 	public String edit(Model model, Student student) {
 		studentMapper.update(student);
+		model.addAttribute("departments", departmentMapper.findAll());
 		model.addAttribute("message", "저장했습니다.");
 		return "student/edit";
 	}

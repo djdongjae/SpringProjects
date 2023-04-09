@@ -1,5 +1,6 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib uri="http://www.springframework.org/tags/form" prefix="form" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,43 +19,38 @@
 </head>
 <body>
   <div class="container">
-    <form method="post">
+    <form:form method="post" modelAttribute="student">
       <div class="title">학생 정보</div>
       <table>
         <tr>
           <td>id</td>
-          <td><input type="text" value="${ student.id }" readonly disabled /></td>
+          <td><form:input path="id" readonly="true" disabled="true" /></td>
         </tr>
         <tr>
           <td>학번</td>
-          <td><input type="text" name="studentNo" value="${ student.studentNo }" /></td>
+          <td><form:input path="studentNo" /></td>
         </tr>
         <tr>
           <td>이름</td>
-          <td><input type="text" name="name" value="${ student.name }" /></td>
+          <td><form:input path="name" /></td>
         </tr>
         <tr>
           <td>학과</td>
           <td>
-            <select name="departmentId">
-              <option value="1" ${ student.departmentId == 1 ? "selected" : "" }>소프트웨어공학과</option>
-              <option value="2" ${ student.departmentId == 2 ? "selected" : "" }>컴퓨터공학과</option>
-              <option value="3" ${ student.departmentId == 3 ? "selected" : "" }>정보통신공학과</option>
-              <option value="4" ${ student.departmentId == 4 ? "selected" : "" }>글로컬IT공학과</option>
-            </select>
+          	<form:select path="departmentId" items="${ departments }" itemLabel="name" itemValue="id" />
           </td>
         </tr>
         <tr>
           <td>전화</td>
-          <td><input type="text" name="phone" value="${ student.phone }" /></td>
+          <td><form:input path="phone" /></td>
         </tr>
         <tr>
           <td>성별</td>
-          <td><input type="text" name="sex" value="${ student.sex }" /></td>
+          <td><form:input path="sex" /></td>
         </tr>
         <tr>
           <td>이메일</td>
-          <td><input type="text" name="email" value="${ student.email }" /></td>
+          <td><form:input path="email" /></td>
         </tr>
       </table>
       <button type="submit" class="btn">저장</button>
@@ -63,7 +59,7 @@
           ${ message }
         </div>
       </c:if>
-    </form>
+    </form:form>
  </div>
 </body>
 </html>
