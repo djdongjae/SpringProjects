@@ -3,11 +3,13 @@ package net.skhu.mapper;
 import java.util.List;
 
 import org.apache.ibatis.annotations.Insert;
+import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Options;
 import org.apache.ibatis.annotations.Select;
 
 import net.skhu.dto.User;
 
+@Mapper
 public interface UserMapper {
 	
 	@Select("""
