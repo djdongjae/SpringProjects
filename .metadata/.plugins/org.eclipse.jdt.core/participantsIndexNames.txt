@@ -93,3 +93,5 @@ C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.
 \param_2nd\src\main\java
 C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1957587022.index
 \request1_2nd\src\main\java
+C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1680429902.index
+\request1_3rd\src\main\java
