@@ -4816,3 +4816,38 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis.s
 2023-05-01 09:44:37,129 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2023-05-01 09:44:37,130 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2023-05-01 09:44:37,134 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\request1_3rd\src\test\resources
+2023-05-01 10:05:13,940 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-01 10:06:06,420 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.skhu:mybatis1_4th:0.0.1-SNAPSHOT @ C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_4th\pom.xml.
+2023-05-01 10:06:10,326 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mybatis1_4th/src/main/java
+2023-05-01 10:06:10,328 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mybatis1_4th/src/main/resources
+2023-05-01 10:06:10,340 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mybatis1_4th/src/main/resources
+2023-05-01 10:06:10,353 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mybatis1_4th/src/test/java
+2023-05-01 10:06:14,760 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2023-05-01 10:06:14,766 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-01 10:06:15,542 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.skhu:mybatis1_4th:0.0.1-SNAPSHOT @ C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_4th\pom.xml.
+2023-05-01 10:06:17,044 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mybatis1_4th/src/main/java
+2023-05-01 10:06:17,046 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mybatis1_4th/src/main/resources
+2023-05-01 10:06:17,047 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mybatis1_4th/src/main/resources
+2023-05-01 10:06:17,049 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mybatis1_4th/src/test/java
+2023-05-01 10:06:19,040 [Worker-0: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for mybatis1_4th
+2023-05-01 10:06:19,058 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 1.00 sec 
+2023-05-01 10:06:19,655 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mybatis1_4th
+2023-05-01 10:06:19,656 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mybatis1_4th
+2023-05-01 10:10:15,896 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: net.skhu:mybatis1_4th:0.0.1-SNAPSHOT @ C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_4th\pom.xml.
+2023-05-01 10:10:17,370 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-01 10:10:17,371 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-01 10:10:17,379 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_4th\src\test\resources
+2023-05-01 10:10:17,380 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mybatis1_4th
+2023-05-01 10:10:17,380 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mybatis1_4th
+2023-05-01 10:10:18,723 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-01 10:10:18,757 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-01 10:10:18,760 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_4th\src\test\resources
+2023-05-01 10:10:59,255 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-01 10:10:59,263 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-01 10:10:59,267 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_4th\src\test\resources
+2023-05-01 10:11:05,646 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-01 10:11:05,664 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-01 10:11:05,668 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_4th\src\test\resources
+2023-05-01 10:11:18,533 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-05-01 10:11:18,538 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-05-01 10:11:18,541 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\mybatis1_4th\src\test\resources

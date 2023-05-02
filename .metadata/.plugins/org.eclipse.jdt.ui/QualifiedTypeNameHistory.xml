@@ -29,7 +29,6 @@
     <fullyQualifiedTypeName name="net.skhu.dto.Department"/>
     <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Options"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpSession"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
@@ -50,4 +49,5 @@
     <fullyQualifiedTypeName name="jakarta.validation.constraints.NotNull"/>
     <fullyQualifiedTypeName name="jakarta.validation.constraints.DecimalMax"/>
     <fullyQualifiedTypeName name="jakarta.validation.constraints.DecimalMin"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.HttpSession"/>
 </qualifiedTypeNameHistroy>
