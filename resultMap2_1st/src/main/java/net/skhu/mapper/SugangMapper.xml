@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+             "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="net.skhu.mapper.SugangMapper">
+
+  <resultMap id="findAll" type="net.skhu.dto.Sugang" autoMapping="true">
+    <id property="id" column="id" />
+    <association property="lecture" javaType="net.skhu.dto.Lecture" autoMapping="true">
+      <id property="id" column="studentId" />
+    </association>
+    <association property="student" javaType="net.skhu.dto.Student" autoMapping="true">
+      <id property="id" column="lectureId" />
+    </association>
+  </resultMap>
+
+</mapper>
+
