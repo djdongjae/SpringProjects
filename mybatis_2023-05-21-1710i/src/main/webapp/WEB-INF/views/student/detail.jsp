@@ -52,6 +52,7 @@
   </tr>
 </table>
 
+<a href="javascript:window.history.back()">돌아가기</a>
 </div>
 </body>
 </html>
