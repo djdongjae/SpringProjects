@@ -65,6 +65,8 @@ C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.
 \mybatis1_3rd\src\main\java
 C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3853709124.index
 \page4_2023-06-14-1106i\src\main\java
+C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3456961594.index
+\mybatis1_2023-06-17-2241i\src\main\java
 C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2274462876.index
 \form3_1st\src\main\java
 C:\Users\jk47w\Desktop\웹프&백엔드\백엔드\SpringProjects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1420960702.index

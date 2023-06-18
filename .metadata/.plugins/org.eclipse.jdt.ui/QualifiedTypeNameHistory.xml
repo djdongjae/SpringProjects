@@ -6,11 +6,7 @@
     <fullyQualifiedTypeName name="net.skhu.repository.CategoryRepository"/>
     <fullyQualifiedTypeName name="java.awt.print.Book"/>
     <fullyQualifiedTypeName name="net.skhu.entity.Book"/>
-    <fullyQualifiedTypeName name="net.skhu.mapper.StudentMapper"/>
-    <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Mapper"/>
     <fullyQualifiedTypeName name="net.skhu.dto.Department"/>
-    <fullyQualifiedTypeName name="net.skhu.dto.Student"/>
-    <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Select"/>
     <fullyQualifiedTypeName name="jakarta.annotation.sql.DataSourceDefinition"/>
     <fullyQualifiedTypeName name="net.skhu.entity.Sugang"/>
     <fullyQualifiedTypeName name="net.skhu.entity.Lecture"/>
@@ -29,12 +25,8 @@
     <fullyQualifiedTypeName name="net.skhu.entity.Engineer"/>
     <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
     <fullyQualifiedTypeName name="net.skhu.entity.Assignment"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
     <fullyQualifiedTypeName name="net.skhu.repository.StudentRepository"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="net.skhu.repository.DepartmentRepository"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
-    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
@@ -44,7 +36,6 @@
     <fullyQualifiedTypeName name="org.springframework.data.domain.Pageable"/>
     <fullyQualifiedTypeName name="net.skhu.entity.Department"/>
     <fullyQualifiedTypeName name="net.skhu.entity.Student"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="net.skhu.model.Pagination"/>
     <fullyQualifiedTypeName name="org.springframework.data.domain.Page"/>
     <fullyQualifiedTypeName name="org.springframework.data.domain.PageRequest"/>
@@ -60,4 +51,13 @@
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
     <fullyQualifiedTypeName name="lombok.ToString"/>
     <fullyQualifiedTypeName name="lombok.ToString.Exclude"/>
+    <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Mapper"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="net.skhu.dto.Student"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="net.skhu.mapper.StudentMapper"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+    <fullyQualifiedTypeName name="org.apache.ibatis.annotations.Select"/>
 </qualifiedTypeNameHistroy>
